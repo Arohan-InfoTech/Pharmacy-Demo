@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MedTrack — Pharmacy Management (Frontend Only)
 
 A frontend-only prototype for pharmacy/medical store management. No backend or database —
@@ -43,3 +44,7 @@ functions like `db.listMedicines(session)`, `db.createSale(...)`, etc. To add a 
 backend, you'd replace the internals of `db.js` with `fetch()` calls to an API (the
 MERN backend built earlier for this project is a ready starting point) while keeping
 the same function names, so the pages don't need to change.
+=======
+# Pharmacy-Demo
+This is a demo website for Pharmacy clients by Arohan InfoTech
+>>>>>>> 7caa62f71104b1f1259c1bf989a6ed2d83933b2f
